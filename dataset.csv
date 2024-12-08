@@ -1,0 +1,66 @@
+questions,response
+What are the class timings?,Every Tuesdays 6:00 - 7:30 pm EST
+Is the class online or offline?,Online
+Where is the class located?,It is an online class.
+What is the duration of a class?,1.5 hours
+What is the duration of the course?,The course runs for 15 weeks.
+What is Professor's name?,Dr. Ahmad Uzair
+What is Professor's contact?,u.ahmad@northeastern.edu
+What is the course code?,CS 6120
+What is this course about?,This course is about Natural Language Processing and how to make computers understand human language.
+What will I learn from this course?,"You'll learn about Document Classification, Sentiment Analysis, Named Entity Recognition, Information Extraction, Machine Translation and Large Language Models."
+What are the prerequisites for this course?,"There are no prerequisites for this course. However, you need to have a decent background in machine learning, python programming, multivariate calculus, linear algebra, and probabilistic reasoning."
+Where can I find the course syllabus?,https://northeastern.instructure.com/courses/192299/assignments/syllabus
+How can I attend the class?,Classes will be conducted virtually on Zoom.
+Where can I get support regarding the course?,You can contact the Professor and TAs on Microsoft Teams.
+Are the lectures recorded?,Yes
+Where can I find the class recordings?,On Canvas > Zoom Meetings > Cloud Recordings
+What is TA's contact?,ta@northeastern.edu
+How can I join the Teams group?,Instructions to join the Teams group: https://northeastern.instructure.com/courses/192299/files/28993351?wrap=1
+What are the office hours timings?,"Following are the office hours timings: Prof. Uzair 12:00 - 3:00 pm (Mon, Tue) & 3:00 - 6:00 pm (Fri); Atharva 11:00 - 5:00 pm (Wed);  Muskan 10:30 - 4:30 pm (Thu); Yue Yao 12:00 - 8:00 pm (Fri)"
+Do you have reference text books for this course?,"Dan Jurafsky and James H. Martin, Speech and Language Processing and Jacob Eisentein, Introduction to Natural Language Processing"
+Is the attendance to class mandatory?,Optional but highly recommended.
+Do we have exams for this course?,Yes
+How many exams do we have for this course?,Midterm and Final exams.
+How many assignments are there for this course?,4
+Is there any instructions about the assignments?,"Yes, you can find them here: https://northeastern.instructure.com/courses/192299/assignments/2362817"
+What are the rubrics for the assignments?,Rubrics can be found under each assignment on Canvas.
+What should I submit for the assignments?,"You should submit code files, a report and dataset files if any."
+What will happen if I submit the assignment late?,There’s a late penalty of 10% per day.
+Can I work with my friend on an assignment?,"You are encouraged to discuss and share ideas with your peers. However, all submitted work must be your own. Directly copying solutions from the internet is strictly prohibited."
+What is the result of plagarisim?,"As per the college’s academic integrity policy, any copied work will be graded as 0 and 2 letter reduction in the final grade."
+What other activities do we have apart from assignments and exams?,"You'll have assignments, discussions, quizzes, projects, midterm, and final exams for this course."
+How much should I have to score to secure an A?,You need to score 94% or above to secure an A grade.
+Is there any bonus assignments to improve my grades?,Please contact Professor regarding this.
+Where can I find the course modules?,https://northeastern.instructure.com/courses/192299/modules
+How many modules do we have for this course?,13 modules
+What is the weekly quizzes weightage?,5%
+What is the discussion weightage?,5%
+What is the assignment weightage?,40%
+What is the project weightage?,20%
+What is the exams weightage?,30%
+Is the code-walk mandatory?,Code-walk is mandatory for all assignments.
+How to schedule code-walk?,Drop a message to any of the TAs and schedule a mutually convenient time to attend code-walk.
+Before when do I have to complete the code-walk?,Within one week after the submission of assignment.
+Where can I take the quiz?,On Canvas > Quizzes.
+Is the quiz taken in the class?,You can take the quiz asynchronously. 
+Is the quiz timed?,Yes
+How many are in a group project?,Maximum of 4 members.
+Can I do the project individually?,Yes
+When is the project deadline?,8-Dec
+Do I have to present my project during class hours?,"No, you need to upload a recorded presentation on Canvas."
+What files do I have to submit for my project?,"A project report, PowerPoint file and a recorded presentation."
+What is the total points for the project?,20
+Are the datasets provided for the assignments?,Yes
+Which coding language will I be using in this course?,Python
+Which IDE should I use?,Mostly Jupyter Notebook.
+Am I allowed to use the Python libraries for my assignments?,"Yes, except when you are asked to implement an algorithm from scratch."
+When is the midterm?,22-Oct
+For how many points is the midterm?,35 points
+When is the final exam?,10-Dec
+For how many points is the finals?,55 points
+What is the exam format?,Multiple Choice Question Answer type.
+How many questions for midterm exam?,35 questions
+How many questions for the final exam?,55 questions 
+How many classes am I allowed to miss?,It is highly recommended to attend all classes unless the absence is of an unavoidable emergency or due to other medical reasons. 
+What is the time limit for the final exam?,60 minutes 
