@@ -10,8 +10,8 @@ Developed an AI teaching assistant using RAG and LLM to respond to students' que
 - Streamlit: User Interface
 
 ### Instructions to run code:
-1.	Clone this repository using: ```git clone https://github.com/baskar-ak/NLP.git```
-2.	Navigate to project directory: ```cd ```
+1.	Clone this repository using: ```https://github.com/baskar-ak/NLP.git```
+2.	Navigate to project directory: ```cd NLP-main```
 3.	Open terminal and install dependencies: ```pip install -U -r requirements.txt```
 4.	Run the command: ```python -m streamlit run main.py```
 
